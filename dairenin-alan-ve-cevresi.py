@@ -2,7 +2,7 @@
     daire alanı  : pi*r**2
     daire çevresi: 2*pi*r
     
-    * yarı çapı verilen bir dairenin alan ve çevresini hesaplayınız. (r:3.14)
+    * yarı çapı verilen bir dairenin alan ve çevresini hesaplayınız. (pi:3.14)
 """
 
 r  = float(input("yarı çap: "))
